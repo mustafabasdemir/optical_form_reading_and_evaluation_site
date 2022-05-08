@@ -1,6 +1,7 @@
 # Optik Form Okuma ve Değerlendirme Sitesi
 
 ### İÇİNDEKİLER
+- Proje Amacı
 - PHP ,Codeigniter ve Framawork Nedir?
 - Dosya Yükleme İşlemi Yapım Aşaması
 - Excel Dökme İşlemi Yapım Aşaması
@@ -8,6 +9,9 @@
 - Mail Gönderme İşlemi Yapım Aşaması
 - Proje Görselleri
 - Kaynak
+
+## Proje Amacı
+Üniversitemizde yapılan optik sınavların daha hızlı ve güvenli şekilde okunup sonuçların ilgili öğretim görevlisine gönderilmesini sağlayan sistem yapılmıştır.Optik form işaretlemeleri üniversitemizde bulunan optik form okuma cihazı tarafından okunur ve metin dosyaları halinde siteye yüklenir. Site yüklemeleri hem metin dosyası hemde excel dosyası halinde kabul eder daha sonrasında sisteme yüklenen cevap anahtarı ile karşılaştırarak sonuçlar grafikler ile birlikte mail olarak öğretim görevlisine gönderilir
 
 ## PHP Nedir ?
 PHP Web Tabanlı, nesne yönelimli bir programlama dilidir. PHP, dinamik, kendi kendine yönetilebilir web siteleri yapılmasını sağlar. PHP'nin geliştirilmesi bugün PHP topluluğu tarafından sürdürülmektedir.
