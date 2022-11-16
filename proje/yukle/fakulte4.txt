@@ -1,0 +1,138 @@
+Bozüyük Meslek Yüksekokulu-Bankacılık ve Sigortacılık-N.Ö.
+Bozüyük Meslek Yüksekokulu-Dış Ticaret-N.Ö.
+Bozüyük Meslek Yüksekokulu-Doğal Yapı Taşları Teknolojisi-N.Ö.
+Bozüyük Meslek Yüksekokulu-Grafik Tasarımı-N.Ö.
+Bozüyük Meslek Yüksekokulu-Muhasebe ve Vergi Uygulamaları-N.Ö.
+Bozüyük Meslek Yüksekokulu-Pazarlama-N.Ö.
+Bozüyük Meslek Yüksekokulu-Reklamcılık-N.Ö.
+Bozüyük Meslek Yüksekokulu-Seramik  Cam ve Çinicilik-N.Ö.
+Fen Edebiyat Fakültesi-Arkeoloji-N.Ö.
+Fen Edebiyat Fakültesi-Coğrafya-N.Ö.
+Fen Edebiyat Fakültesi-Coğrafya-İ.Ö.
+Fen Edebiyat Fakültesi-Kimya-N.Ö.
+Fen Edebiyat Fakültesi-Kimya-İ.Ö.
+Fen Edebiyat Fakültesi-Matematik-N.Ö.
+Fen Edebiyat Fakültesi-Moleküler Biyoloji ve Genetik-N.Ö.
+Fen Edebiyat Fakültesi-Türk Dili ve Edebiyatı-N.Ö.
+Gölpazarı Meslek Yüksekokulu-Bankacılık ve Sigortacılık-N.Ö.
+Gölpazarı Meslek Yüksekokulu-Büro Yönetimi ve Yönetici Asistanlığı-N.Ö.
+Gölpazarı Meslek Yüksekokulu-Büro Yönetimi ve Yönetici Asistanlığı-İ.Ö.
+Gölpazarı Meslek Yüksekokulu-Halkla İlişkiler ve Tanıtım-N.Ö.
+Gölpazarı Meslek Yüksekokulu-Halkla İlişkiler ve Tanıtım-İ.Ö.
+Gölpazarı Meslek Yüksekokulu-Muhasebe ve Vergi Uygulamaları-N.Ö.
+Gölpazarı Meslek Yüksekokulu-Muhasebe ve Vergi Uygulamaları-İ.Ö.
+Gölpazarı Meslek Yüksekokulu-Pazarlama-N.Ö.
+Gölpazarı Meslek Yüksekokulu-Reklamcılık-N.Ö.
+Gölpazarı Meslek Yüksekokulu-Sosyal Hizmetler-N.Ö.
+Gölpazarı Meslek Yüksekokulu-Yerel Yönetimler-N.Ö.
+Gölpazarı Meslek Yüksekokulu-Yerel Yönetimler-İ.Ö.
+Güzel Sanatlar ve Tasarım Fakültesi-Endüstri Ürünleri Tasarımı-N.Ö.
+Güzel Sanatlar ve Tasarım Fakültesi-İç Mimarlık ve Çevre Tasarımı-N.Ö.
+Güzel Sanatlar ve Tasarım Fakültesi-Resim-N.Ö.
+Güzel Sanatlar ve Tasarım Fakültesi-Seramik ve Cam Tasarımı-N.Ö.
+İktisadi ve İdari Bilimler Fakültesi-İktisat-N.Ö.
+İktisadi ve İdari Bilimler Fakültesi-İktisat-İ.Ö.
+İktisadi ve İdari Bilimler Fakültesi-İşletme-N.Ö.
+İktisadi ve İdari Bilimler Fakültesi-İşletme-İ.Ö.
+İktisadi ve İdari Bilimler Fakültesi-Maliye-N.Ö.
+İktisadi ve İdari Bilimler Fakültesi-Maliye-İ.Ö.
+İktisadi ve İdari Bilimler Fakültesi-Siyaset Bilimi ve Kamu Yönetimi-N.Ö.
+İktisadi ve İdari Bilimler Fakültesi-Siyaset Bilimi ve Kamu Yönetimi-İ.Ö.
+İktisadi ve İdari Bilimler Fakültesi-Yönetim Bilişim Sistemleri-N.Ö.
+İktisadi ve İdari Bilimler Fakültesi-Yönetim Bilişim Sistemleri-İ.Ö.
+İslami İlimler Fakültesi-İslami İlimler-N.Ö.
+İslami İlimler Fakültesi-İslami İlimler-İ.Ö.
+Meslek Yüksekokulu-Bilgisayar Programcılığı-N.Ö.
+Meslek Yüksekokulu-Bilgisayar Programcılığı-İ.Ö.
+Meslek Yüksekokulu-Döküm-N.Ö.
+Meslek Yüksekokulu-Elektrik-N.Ö.
+Meslek Yüksekokulu-Elektrik-İ.Ö.
+Meslek Yüksekokulu-Elektrik Enerjisi Üretim- İletim ve Dağıtımı-N.Ö.
+Meslek Yüksekokulu-Elektronik Haberleşme Teknolojisi-N.Ö.
+Meslek Yüksekokulu-Elektronik Haberleşme Teknolojisi-İ.Ö.
+Meslek Yüksekokulu-Elektronik Teknolojisi-N.Ö.
+Meslek Yüksekokulu-Elektronik Teknolojisi-İ.Ö.
+Meslek Yüksekokulu-Gıda Teknolojisi-N.Ö.
+Meslek Yüksekokulu-Gıda Teknolojisi-İ.Ö.
+Meslek Yüksekokulu-İnşaat Teknolojisi-N.Ö.
+Meslek Yüksekokulu-İnşaat Teknolojisi-İ.Ö.
+Meslek Yüksekokulu-Kimya Teknolojisi-N.Ö.
+Meslek Yüksekokulu-Kimya Teknolojisi-İ.Ö.
+Meslek Yüksekokulu-Kontrol ve Otomasyon Teknolojisi-N.Ö.
+Meslek Yüksekokulu-Kontrol ve Otomasyon Teknolojisi-İ.Ö.
+Meslek Yüksekokulu-Makine-N.Ö.
+Meslek Yüksekokulu-Makine-İ.Ö.
+Meslek Yüksekokulu-Metalurji-N.Ö.
+Meslek Yüksekokulu-Metalurji-İ.Ö.
+Meslek Yüksekokulu-Otomotiv Teknolojisi-N.Ö.
+Meslek Yüksekokulu-Otomotiv Teknolojisi-İ.Ö.
+Meslek Yüksekokulu-Peyzaj ve Süs Bitkileri-N.Ö.
+Meslek Yüksekokulu-Üretimde Kalite Kontrol-N.Ö.
+Mühendislik Fakültesi-Bilgisayar Mühendisliği-N.Ö.
+Mühendislik Fakültesi-Elektrik-Elektronik Mühendisliği-N.Ö.
+Mühendislik Fakültesi-Elektrik-Elektronik Mühendisliği (%50 Burslu)-N.Ö.
+Mühendislik Fakültesi-İnşaat Mühendisliği-N.Ö.
+Mühendislik Fakültesi-Kimya Mühendisliği-N.Ö.
+Mühendislik Fakültesi-Makine Mühendisliği-N.Ö.
+Mühendislik Fakültesi-Metalurji ve Malzeme Mühendisliği-N.Ö.
+Osmaneli Meslek Yüksekokulu-Dış Ticaret-N.Ö.
+Osmaneli Meslek Yüksekokulu-Dış Ticaret-İ.Ö.
+Osmaneli Meslek Yüksekokulu-Elektrik-N.Ö.
+Osmaneli Meslek Yüksekokulu-İklimlendirme ve Soğutma Teknolojisi-N.Ö.
+Osmaneli Meslek Yüksekokulu-İş Sağlığı ve Güvenliği-N.Ö.
+Osmaneli Meslek Yüksekokulu-İş Sağlığı ve Güvenliği-İ.Ö.
+Osmaneli Meslek Yüksekokulu-Makine-N.Ö.
+Osmaneli Meslek Yüksekokulu-Muhasebe ve Vergi Uygulamaları-N.Ö.
+Osmaneli Meslek Yüksekokulu-Sağlık Kurumları İşletmeciliği-N.Ö.
+Osmaneli Meslek Yüksekokulu-Sağlık Kurumları İşletmeciliği-İ.Ö.
+Osmaneli Meslek Yüksekokulu-Tıbbi Dokümantasyon ve Sekreterlik-N.Ö.
+Pazaryeri Meslek Yüksekokulu-Bankacılık ve Sigortacılık-N.Ö.
+Pazaryeri Meslek Yüksekokulu-Bankacılık ve Sigortacılık-İ.Ö.
+Pazaryeri Meslek Yüksekokulu-Bilgisayar Programcılığı-N.Ö.
+Pazaryeri Meslek Yüksekokulu-Bilgisayar Programcılığı-İ.Ö.
+Pazaryeri Meslek Yüksekokulu-Çağrı Merkezi Hizmetleri-N.Ö.
+Pazaryeri Meslek Yüksekokulu-Çağrı Merkezi Hizmetleri-İ.Ö.
+Pazaryeri Meslek Yüksekokulu-Doğal Yapı Taşları Teknolojisi-N.Ö.
+Pazaryeri Meslek Yüksekokulu-Endüstri Ürünleri Tasarımı-N.Ö.
+Pazaryeri Meslek Yüksekokulu-Kozmetik Teknolojisi-N.Ö.
+Pazaryeri Meslek Yüksekokulu-Muhasebe ve Vergi Uygulamaları-N.Ö.
+Pazaryeri Meslek Yüksekokulu-Organik Tarım-N.Ö.
+Pazaryeri Meslek Yüksekokulu-Tekstil Teknolojisi - Dokuma-N.Ö.
+Pazaryeri Meslek Yüksekokulu-Tekstil Teknolojisi - Terbiye-N.Ö.
+Pazaryeri Meslek Yüksekokulu-Tıbbi Tanıtım ve Pazarlama-N.Ö.
+Pazaryeri Meslek Yüksekokulu-Tıbbi ve Aromatik Bitkiler-N.Ö.
+Sağlık Bilimleri Fakültesi-Çocuk Gelişimi-N.Ö.
+Sağlık Bilimleri Fakültesi-Hemşirelik-N.Ö.
+Sağlık Bilimleri Fakültesi-Sağlık Yönetimi-N.Ö.
+Sağlık Hizmetleri Meslek Yüksekokulu-Çocuk Gelişimi-N.Ö.
+Sağlık Hizmetleri Meslek Yüksekokulu-Çocuk Gelişimi-İ.Ö.
+Sağlık Hizmetleri Meslek Yüksekokulu-Eczane Hizmetleri-N.Ö.
+Sağlık Hizmetleri Meslek Yüksekokulu-İlk ve Acil Yardım-N.Ö.
+Sağlık Hizmetleri Meslek Yüksekokulu-Tıbbi Dokümantasyon ve Sekreterlik-N.Ö.
+Sağlık Hizmetleri Meslek Yüksekokulu-Tıbbi Laboratuvar Teknikleri-N.Ö.
+Sağlık Hizmetleri Meslek Yüksekokulu-Tıbbi Laboratuvar Teknikleri-İ.Ö.
+Söğüt Meslek Yüksekokulu-Basım ve Yayın Teknolojileri-N.Ö.
+Söğüt Meslek Yüksekokulu-Basım ve Yayın Teknolojileri-İ.Ö.
+Söğüt Meslek Yüksekokulu-Bilgisayar Programcılığı-N.Ö.
+Söğüt Meslek Yüksekokulu-Bilgisayar Programcılığı-İ.Ö.
+Söğüt Meslek Yüksekokulu-Büro Yönetimi ve Yönetici Asistanlığı-N.Ö.
+Söğüt Meslek Yüksekokulu-Büro Yönetimi ve Yönetici Asistanlığı-İ.Ö.
+Söğüt Meslek Yüksekokulu-Halkla İlişkiler ve Tanıtım-N.Ö.
+Söğüt Meslek Yüksekokulu-Halkla İlişkiler ve Tanıtım-İ.Ö.
+Söğüt Meslek Yüksekokulu-İç Mekan Tasarımı-N.Ö.
+Söğüt Meslek Yüksekokulu-Moda Tasarımı-N.Ö.
+Söğüt Meslek Yüksekokulu-Moda Tasarımı-İ.Ö.
+Söğüt Meslek Yüksekokulu-Muhasebe ve Vergi Uygulamaları-N.Ö.
+Söğüt Meslek Yüksekokulu-Seramik- Cam ve Çinicilik-N.Ö.
+Söğüt Meslek Yüksekokulu-Sosyal Güvenlik-N.Ö.
+Söğüt Meslek Yüksekokulu-Sosyal Güvenlik-İ.Ö.
+Söğüt Meslek Yüksekokulu-Turist Rehberliği-N.Ö.
+Söğüt Meslek Yüksekokulu-Turizm ve Otel İşletmeciliği-N.Ö.
+Uygulamalı Bilimler Fakültesi-Bankacılık ve Finans-N.Ö.
+Uygulamalı Bilimler Fakültesi-Muhasebe ve Denetim-N.Ö.
+Uygulamalı Bilimler Fakültesi-Turizm İşletmeciliği ve Otelcilik-N.Ö.
+Ziraat ve Doğa Bilimleri Fakültesi-Bahçe Bitkileri-N.Ö.
+Ziraat ve Doğa Bilimleri Fakültesi-Bitki Koruma-N.Ö.
+Ziraat ve Doğa Bilimleri Fakültesi-Biyosistem Mühendisliği-N.Ö.
+Ziraat ve Doğa Bilimleri Fakültesi-Tarla Bitkileri-N.Ö.
+Ziraat ve Doğa Bilimleri Fakültesi-Ziraat Mühendisliği Programları-N.Ö.
